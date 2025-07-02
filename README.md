@@ -34,6 +34,13 @@ This project uses several tables:
 - `grade`: GPA scale
 - `hid`: Used to identify final marks entries
 
+## 🚀 How to Run
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/Rida-2003/DBMS_project.git
+cd DBMS_project
+
 
 
 
