@@ -40,11 +40,11 @@ This project is for educational purposes only.
 ## 🚀 How to Run
 
  1. Clone the repository:
-git clone https://github.com/Rida-2003/DBMS_project.git
-cd DBMS_project
+ git clone https://github.com/Rida-2003/DBMS_project.git
+ cd DBMS_project
 
  2.Install dependencies:
-npm install
+  npm install
 
 3. Set up your PostgreSQL database:
 Import all .sql files (tables and data)
