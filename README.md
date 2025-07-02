@@ -34,7 +34,7 @@ This project uses several tables:
 - `grade`: GPA scale
 - `hid`: Used to identify final marks entries
 
-- 📃 License
+## 📃 License
 This project is for educational purposes only.
 
 ## 🚀 How to Run
