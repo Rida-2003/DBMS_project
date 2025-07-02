@@ -34,14 +34,16 @@ This project uses several tables:
 - `grade`: GPA scale
 - `hid`: Used to identify final marks entries
 
+- 📃 License
+This project is for educational purposes only.
+
 ## 🚀 How to Run
 
-### 1. Clone the repository:
-```bash
+ 1. Clone the repository:
 git clone https://github.com/Rida-2003/DBMS_project.git
 cd DBMS_project
 
-2.Install dependencies:
+ 2.Install dependencies:
 npm install
 
 3. Set up your PostgreSQL database:
@@ -52,8 +54,7 @@ Update your database credentials in index.js or .env
 node index.js
 App runs at: http://localhost:4500
 
-📃 License
-This project is for educational purposes only.
+
 
 
 
