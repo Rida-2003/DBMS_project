@@ -41,6 +41,22 @@ This project uses several tables:
 git clone https://github.com/Rida-2003/DBMS_project.git
 cd DBMS_project
 
+2.Install dependencies:
+npm install
+
+3. Set up your PostgreSQL database:
+Import all .sql files (tables and data)
+Update your database credentials in index.js or .env
+
+4. Run the app:
+node index.js
+App runs at: http://localhost:4500
+
+📃 License
+This project is for educational purposes only.
+
+
+
 
 
 
